@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "CommonJS",
+    "noEmit": true,
+    "removeComments": false,
+    "noLib": false,
+    "preserveConstEnums": true,
+    "experimentalDecorators": true,
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": ".",
+    "noEmitOnError": false,
+    "skipLibCheck": true
+  }
+}
